@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\THREAD4IG\\",
+  "WorkspaceRootPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Timers-c-\\THREAD4IG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20F7D39A-3B25-426C-BCBE-8A2788286123}|THREAD4IG\\THREAD4IG.csproj|c:\\users\\ziyis\\onedrive\\desktop\\thread4ig\\thread4ig\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20F7D39A-3B25-426C-BCBE-8A2788286123}|THREAD4IG\\THREAD4IG.csproj|c:\\users\\ziyis\\onedrive\\desktop\\timers-c-\\thread4ig\\thread4ig\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20F7D39A-3B25-426C-BCBE-8A2788286123}|THREAD4IG\\THREAD4IG.csproj|solutionrelative:thread4ig\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20F7D39A-3B25-426C-BCBE-8A2788286123}|THREAD4IG\\THREAD4IG.csproj|C:\\Users\\ziyis\\OneDrive\\Desktop\\THREAD4IG\\thread4ig\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{20F7D39A-3B25-426C-BCBE-8A2788286123}|THREAD4IG\\THREAD4IG.csproj|C:\\Users\\ziyis\\OneDrive\\Desktop\\Timers-c-\\THREAD4IG\\thread4ig\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20F7D39A-3B25-426C-BCBE-8A2788286123}|THREAD4IG\\THREAD4IG.csproj|solutionrelative:thread4ig\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\THREAD4IG\\THREAD4IG\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Timers-c-\\THREAD4IG\\THREAD4IG\\Form1.cs",
               "RelativeDocumentMoniker": "THREAD4IG\\Form1.cs",
-              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\THREAD4IG\\THREAD4IG\\Form1.cs",
+              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Timers-c-\\THREAD4IG\\THREAD4IG\\Form1.cs",
               "RelativeToolTip": "THREAD4IG\\Form1.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwDwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T08:23:13.574Z",
               "EditorCaption": ""
@@ -41,13 +41,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\THREAD4IG\\THREAD4IG\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Timers-c-\\THREAD4IG\\THREAD4IG\\Form1.cs",
               "RelativeDocumentMoniker": "THREAD4IG\\Form1.cs",
               "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\THREAD4IG\\THREAD4IG\\Form1.cs [Progettazione]",
-              "RelativeToolTip": "THREAD4IG\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\THREAD4IG\\THREAD4IG\\Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T08:11:50.172Z",
-              "EditorCaption": " [Progettazione]"
+              "WhenOpened": "2024-10-12T08:11:50.172Z"
             }
           ]
         }

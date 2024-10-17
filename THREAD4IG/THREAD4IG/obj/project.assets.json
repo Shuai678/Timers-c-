@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ziyis\\OneDrive\\Desktop\\THREAD4IG\\THREAD4IG\\THREAD4IG.csproj",
+      "projectUniqueName": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Timers-c-\\THREAD4IG\\THREAD4IG\\THREAD4IG.csproj",
       "projectName": "THREAD4IG",
-      "projectPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\THREAD4IG\\THREAD4IG\\THREAD4IG.csproj",
+      "projectPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Timers-c-\\THREAD4IG\\THREAD4IG\\THREAD4IG.csproj",
       "packagesPath": "C:\\Users\\ziyis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\THREAD4IG\\THREAD4IG\\obj\\",
+      "outputPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Timers-c-\\THREAD4IG\\THREAD4IG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ziyis\\AppData\\Roaming\\NuGet\\NuGet.Config",
