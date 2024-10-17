@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zeaMD+dkE9qCU3ue+zIK/RpLvbuyrL6GN5PvCyN2phJci5nlUQanzycrOViqKEBat7yVBWazm/K7MLTekj7GoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\THREAD4IG\\THREAD4IG\\THREAD4IG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ziyis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
