@@ -1,17 +1,25 @@
+using System;
+using System.Drawing;
+using System.Threading;
+using System.Windows.Forms;
+
 namespace THREAD4IG
 {
     public partial class Form1 : Form
     {
         //private System.Windows.Forms.Timer timer1;
         //private System.Windows.Forms.Label lblTempo;
-        private Label lblTempo;
-        private Thread countdownThread;
+        //private Label lblTempo;
+        //private Thread countdownThread;
+        //private List<Thread> countdownThreads;  // Lista per mantenere i thread di countdown
+        //private List<Label> countdownLabels;    // Lista per mantenere le etichette
+        private int currentYPosition = 10;
         private int countdownValue; 
         public Form1()
         {
             InitializeComponent();
         }
-        private void Countdown()
+        private void Countdown(Label lblTempo, int countdownValue)
         {
             while (countdownValue >= 0)
             {
@@ -73,19 +81,25 @@ namespace THREAD4IG
 
 
             // Ottieni il valore dal controllo NumericUpDown (numero di secondi)
-            countdownValue = (int)numericUpDown1.Value;
+            int countdownValue = (int)numericUpDown1.Value;
 
             // Configura la label per visualizzare il countdown
-            lblTempo = new Label();
-            lblTempo.Location = new Point(0, 0);
+            Label lblTempo = new Label();
+            lblTempo.Location = new Point(10, currentYPosition); // Posiziona ogni etichetta una sotto l'altra
             lblTempo.Font = new Font(FontFamily.GenericSansSerif, 36);
-            lblTempo.Size = new Size(200, 200);
+            lblTempo.Size = new Size(200, 100);
             this.Controls.Add(lblTempo);
-            lblTempo.Text = countdownValue.ToString();
+            currentYPosition += 100;
+            //lblTempo.Text = countdownValue.ToString();
 
+            /*
             // Avvia il thread che eseguir¨¤ il conto alla rovescia
             countdownThread = new Thread(Countdown);
             countdownThread.Start();
+            */
+
+            Thread countdownThread = new Thread(() => Countdown(lblTempo, countdownValue));
+            countdownThread.Start();  // Avvia il nuovo thread per il countdown
 
         }
     }

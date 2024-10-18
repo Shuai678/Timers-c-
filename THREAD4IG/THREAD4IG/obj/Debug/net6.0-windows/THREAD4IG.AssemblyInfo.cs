@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("THREAD4IG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ad8c74e92767a3e5179631631211de7b46e52d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d9cf894a16d01ed1bf03c744ceb04d1f287ecb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("THREAD4IG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("THREAD4IG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
